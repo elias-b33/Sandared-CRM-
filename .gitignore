@@ -1,0 +1,8 @@
+# Byggutdata, beroenden och hemligheter hamnar aldrig i Git
+dist/
+node_modules/
+data/
+.env
+.env.*
+*.log
+.DS_Store
